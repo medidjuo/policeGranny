@@ -1,19 +1,19 @@
 {
       "max_count_ads": "13",
 
-      "our_ads1_activation":"true",
+      "our_ads1_activation":"false",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/BC11-Elza/main/111.jpg",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.xd.baby.naughty",
 
-    "our_ads2_activation":"true",
+    "our_ads2_activation":"false",
     "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/BC11-Elza/main/222.jpg",
     "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.xd.baby.naughty",
 
-    "our_ads3_activation":"true",
+    "our_ads3_activation":"false",
     "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/BC11-Elza/main/333.jpg",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.xd.baby.naughty",
 
-    "our_ads_inter_activation":"true",
+    "our_ads_inter_activation":"false",
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/BC11-Elza/main/444.jpg",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.xd.baby.naughty",
 
