@@ -2,20 +2,20 @@
       "max_count_ads": "10",
 
       "our_ads1_activation":"true",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/CraftAd01Forgranny.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.Block.Life.Building3Dcraft",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/spongeAds-miniInter.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.spongegranny.scarysponge.horrorgranny",
 
     "our_ads2_activation":"true",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/craftAd3.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.Block.Life.Building3Dcraft",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/sonicAd01.png",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.Escape.ShinMonster.ObbyParkour",
 
     "our_ads3_activation":"true",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/craftAd1.png",
-    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.Block.Life.Building3Dcraft",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/sonicAds02.png",
+    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.Escape.ShinMonster.ObbyParkour",
 
     "our_ads_inter_activation":"true",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/barby%20ads%20inter4.png",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.barbieprincess.tonyboyandgirlprincess.barbiegranny",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/SonicAd-inter.png",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.Escape.ShinMonster.ObbyParkour",
 
   "admob_app_id": "ca-app-pub-1111222233334444~1112223333",
   "admob_banner": "ca-app-pub-1111222233334444/1112223333",
