@@ -1,36 +1,50 @@
 {
-      "max_count_ads": "10",
+  "max_count_ads": "15",
 
-      "our_ads1_activation":"true",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/spongeAds-miniInter.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.spongegranny.scarysponge.horrorgranny",
+  "our_ads1_activation":"false",
+  "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/GrannyPolice1.png",
+  "our_ads1_link_url":"https://www.playscare.com/police-granny",
 
-    "our_ads2_activation":"true",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/RatDance%2001.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.Rat.Dance.ParkourChallenge",
+  "our_ads2_activation":"false",
+  "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/barbygranny.png",
+  "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.barbieprincess.tonyboyandgirlprincess.barbiegranny",
 
-    "our_ads3_activation":"true",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/RatDance%2002.png",
-    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.Rat.Dance.ParkourChallenge",
+  "our_ads3_activation":"false",
+  "our_ads3_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/adsPoliceGranny.png",
+  "our_ads3_link_url":"https://www.playscare.com/police-granny",
 
-    "our_ads_inter_activation":"true",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/rat%20dance%20inter%20AD.png",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.Rat.Dance.ParkourChallenge",
+  "our_ads_inter_activation":"false",
+  "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/Grannypolice2.png",
+  "our_ads_inter_link_url":"https://www.playscare.com/police-granny",
 
-  "admob_app_id": "ca-app-pub-1111222233334444~1112223333",
-  "admob_banner": "ca-app-pub-1111222233334444/1112223333",
-  "admob_interstitial": "ca-app-pub-1111222233334444/1112223333",
-  "admob_rewarded_video": "ca-app-pub-1111222233334444/1112223333",
+  "admob_app_id": "ca-app-pub-00000000000000",
+  "admob_banner": "ca-app-pub-00000000000000",
+  "admob_interstitial": "ca-app-pub-00000000000",
 
-  "unity_app_id": "5609421",
+  "unity_app_id": "",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
-  "unity_rewarded_video": "Rewarded_Android",
 
   "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
   "appLovin_banner": "00000000000",
   "appLovin_interstitial": "92669bc4e7383fa9",
-  "appLovin_rewarded_video": "00000000000"
 
+    "gameplay_ads_mode": "aggressive",
+"min_time_before_gameplay_ads": "60",
+"min_deaths_before_ads": "2",
 
+"use_mediation": "false",
+
+"max_percentage": "70",
+"admob_percentage": "30",
+
+"applovin_activation": "true",
+"unity_activation": "false",
+"admob_activation": "false",
+
+"applovin_percentage": "50",
+"unity_percentage": "50",
+"admob_percentage_non_mediation": "0"
+
+  
 }
