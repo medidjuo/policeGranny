@@ -21,9 +21,9 @@
   "admob_banner": "ca-app-pub-00000000000000",
   "admob_interstitial": "ca-app-pub-00000000000",
 
-  "unity_app_id": "",
+  "unity_app_id": "276eda2d5",
   "unity_banner": "Banner_Android",
-  "unity_interstitial": "Interstitial_Android",
+  "unity_interstitial": "y9lkojq4fmiwmrgj",
 
   "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
   "appLovin_banner": "00000000000",
@@ -38,12 +38,12 @@
 "max_percentage": "70",
 "admob_percentage": "30",
 
-"applovin_activation": "true",
-"unity_activation": "false",
+"applovin_activation": "false",
+"unity_activation": "true",
 "admob_activation": "false",
 
-"applovin_percentage": "50",
-"unity_percentage": "50",
+"applovin_percentage": "0",
+"unity_percentage": "100",
 "admob_percentage_non_mediation": "0"
 
   
