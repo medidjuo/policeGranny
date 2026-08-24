@@ -17,13 +17,13 @@
   "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/Grannypolice2.png",
   "our_ads_inter_link_url":"https://www.playscare.com/police-granny",
 
-  "admob_app_id": "ca-app-pub-00000000000000",
-  "admob_banner": "ca-app-pub-00000000000000",
-  "admob_interstitial": "ca-app-pub-00000000000",
+  "admob_app_id": "ca-app-pub-5834141336216298~8351212399",
+  "admob_banner": "ca-app-pub-5834141336216298/00000000",
+  "admob_interstitial": "ca-app-pub-5834141336216298/8455792205",
 
-  "unity_app_id": "276eda2d5",
+  "unity_app_id": "0000000",
   "unity_banner": "Banner_Android",
-  "unity_interstitial": "y9lkojq4fmiwmrgj",
+  "unity_interstitial": "000000000",
 
   "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
   "appLovin_banner": "00000000000",
@@ -39,12 +39,12 @@
 "admob_percentage": "30",
 
 "applovin_activation": "true",
-"unity_activation": "true",
-"admob_activation": "false",
+"unity_activation": "false",
+"admob_activation": "true",
 
-"applovin_percentage": "50",
-"unity_percentage": "50",
-"admob_percentage_non_mediation": "0"
+"applovin_percentage": "30",
+"unity_percentage": "0",
+"admob_percentage_non_mediation": "60"
 
   
 }
