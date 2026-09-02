@@ -20,14 +20,17 @@
   "admob_app_id": "ca-app-pub-5834141336216298~8351212399",
   "admob_banner": "ca-app-pub-5834141336216298/00000000",
   "admob_interstitial": "ca-app-pub-5834141336216298/8455792205",
+  "admob_rewarded_video": "ca-app-pub-5834141336216298/5449571090",
 
   "unity_app_id": "0000000",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "000000000",
+  "unity_rewarded_video": "00000000",
 
   "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
   "appLovin_banner": "00000000000",
   "appLovin_interstitial": "92669bc4e7383fa9",
+  "appLovin_rewarded_video": "000000000000",
 
     "gameplay_ads_mode": "aggressive",
 "min_time_before_gameplay_ads": "60",
