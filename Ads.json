@@ -38,8 +38,8 @@
 
 "use_mediation": "false",
 
-"max_percentage": "70",
-"admob_percentage": "30",
+"max_percentage": "30",
+"admob_percentage": "70",
 
 "applovin_activation": "true",
 "unity_activation": "false",
@@ -47,7 +47,7 @@
 
 "applovin_percentage": "30",
 "unity_percentage": "0",
-"admob_percentage_non_mediation": "60"
+"admob_percentage_non_mediation": "70"
 
   
 }
