@@ -13,9 +13,10 @@
   "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/BarbyGranny-Ads.png",
   "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.barbieprincess.tonyboyandgirlprincess.barbiegranny",
 
-  "our_ads_inter_activation":"false",
-  "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/Grannypolice2.png",
-  "our_ads_inter_link_url":"https://www.playscare.com/police-granny",
+  "our_ads_inter_activation":"true",
+  "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/RichGranny%20Ads%20inter1.png",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.RichGranny.arabicGranny.Escape",
+
 
   "admob_app_id": "ca-app-pub-5834141336216298~8351212399",
   "admob_banner": "ca-app-pub-5834141336216298/00000000",
